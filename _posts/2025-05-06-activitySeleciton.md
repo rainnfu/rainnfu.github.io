@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Activity Selection Problem 
-date: 2025-05-06 
+date: 2025-05-06 12:39:22 +0800
 categories: [DAA, Greedy Algorithm]
 tags: [daa, alghoritm, greedy]     # TAG names should always be lowercase
 ---
