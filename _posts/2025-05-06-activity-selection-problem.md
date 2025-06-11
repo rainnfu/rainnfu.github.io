@@ -2,8 +2,8 @@
 layout: post
 title: "Activity Selection Problem"
 date: 2025-05-06 13:05:20 +0800
-categories: DAA, Greedy Alghoritm
-tags: daa, algorithm, greedy
+categories: [DAA, Greedy Alghoritm]
+tags: [daa, algorithm, greedy]
 ---
 
 Halo! Kali ini kita bakal bahas salah satu topik keren di dunia algoritma dan optimasi: **Activity Selection Problem**. Yap, ini tentang milih aktivitas sebanyak mungkin tanpa bikin mereka tabrakan kaya jadwal kuliah yang numpuk semua di hari Senin.
