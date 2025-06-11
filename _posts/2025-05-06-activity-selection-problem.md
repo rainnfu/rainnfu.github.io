@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Activity Selection Problem"
-date: 2025-05-06
+date: 2025-05-06 13:05:20 +0800
 categories: [DAA, Greedy Alghoritm]
 tags: [daa, algorithm, greedy]
 ---
@@ -12,7 +12,7 @@ Halo! Kali ini kita bakal bahas salah satu topik keren di dunia algoritma dan op
 
 ### 😎 Apa sih permasalahan ini?
 
-Bayangin kamu punya daftar kegiatan—misalnya rapat, kelas, main game (yang ini opsional sih 😅) dan kamu cuma punya satu ruang atau waktu untuk ngerjain semuanya. Masalahnya: kamu cuma bisa ngelakuin satu hal dalam satu waktu. Jadi, gimana caranya milih kegiatan sebanyak mungkin *tanpa ada yang saling numpuk*?
+Bayangin kamu punya daftar kegiatan—misalnya rapat, kelas, main game (yang ini opsional sih 😅)—dan kamu cuma punya satu ruang atau waktu untuk ngerjain semuanya. Masalahnya: kamu cuma bisa ngelakuin satu hal dalam satu waktu. Jadi, gimana caranya milih kegiatan sebanyak mungkin *tanpa ada yang saling numpuk*?
 
 Jawabannya? Gunain **algoritma greedy**. Alias, kita ambil yang paling cepat selesai dulu, biar waktu selanjutnya bisa dipakai buat yang lain. Ibaratnya: "Sikat yang bisa disikat dulu, nanti pikirin sisanya."
 
