@@ -2,7 +2,7 @@
 layout: post
 title: "Activity Selection Problem"
 date: 2025-05-06 13:05:20 +0800
-categories: [DAA, Greedy Alghoritm]
+categories: [DAA, Greedy Algorithm]
 tags: [daa, algorithm, greedy]
 ---
 
