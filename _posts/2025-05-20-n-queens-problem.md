@@ -1,7 +1,7 @@
 ---
 title: N-QUEENS PROBLEM
 date: 2025-05-20
-categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
+categories: [DAA, Backtracking Algorithm]
 tags: [daa, algorithm, backtracking]     # TAG names should always be lowercase
 ---
 
